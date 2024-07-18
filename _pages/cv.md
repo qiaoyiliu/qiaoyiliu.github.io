@@ -16,7 +16,7 @@ Education
 * Certificate of Advanced Study (CAS) in Data Science, 2023
 * B.S. in Biological Sciences, Capital Normal University in Beijing, China,  2019
 
-Publications
+Publications & Presentations
 ------
 * **Liu, Q.**, Kim, Y., Hemsley, J. (2024) Climate Change Skeptics and the Power of Negativity. Association for Information Science and Technology (ASIST), Colgary, Canada. *(accepted)*
 * **Liu, Q.**, Qin, J. (2024) Using Gene Ontology and ML Algorithms for Dataset Design and Creation for ML/AI Modeling. Networked Knowledge Organization Systems (NKOS) Workshop. Dublin Core Metadata Initiative (DCMI), Toronto, Canada. *(accepted)*
