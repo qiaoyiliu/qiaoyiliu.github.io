@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "刘乔伊 Qiaoyi/Joy Liu "
-  pronouns         : # example: "she/her"  
-  bio              : "she/her/hers"
+  pronouns         : "she/her/hers"  
+  bio              : #
   location         : #
   employer         : #
   uri              : #
