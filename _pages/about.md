@@ -12,4 +12,5 @@ I'm a PhD student studying Information Science and Technology at Syracuse Univer
 
 I enjoy jigsaw puzzles and Lego. Quite good at swimming. I do a little bit of calligraphy and drawing. Also trying to learn French. Consider myself a fairly good cook and a HUGE fan of Zelda.
 
-# <br/><img src='/images/cc_performance.png'>
+<br/>
+[comment]: <> (<img src='/images/cc_performance.png'>)
