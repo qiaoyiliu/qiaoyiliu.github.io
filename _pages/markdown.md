@@ -137,6 +137,10 @@ Do It Live
   3. List item three
   4. List item four
 
+## Add images
+<br/>
+<img src='/images/cc_performance.png'>
+
 ## Buttons
 
 Make any link standout more when applying the `.btn` class.
